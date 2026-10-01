@@ -1,0 +1,6 @@
+{
+  "name": "ScholarExtract - Academic Paper Analyzer",
+  "description": "Accurately extract structured research components: Objective, Methodology, Findings, Limitations, and Key Takeaways with zero-hallucination grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
